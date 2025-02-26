@@ -36,12 +36,6 @@
 
 ## Realiste
 
-## Steganographie
-
-## Web - Client
-
-## Web - Serveur
-
 ## Network
 - [X] FTP - Authentification
 - [X] TELNET - authentification
@@ -76,3 +70,52 @@
 - [ ] ARP Spoofing - L’homme du milieu
 - [ ] RF - Bande L
 - [ ] WPA3 - SAE
+
+## Steganographie
+
+## Web - Client
+
+- [X] 	Javascript - Authentification
+- [X] 	HTML - boutons désactivés
+- [X] 	Javascript - Source
+- [X] 	Javascript - Authentification 2
+- [X] 	Javascript - Obfuscation 1
+- [X] 	Javascript - Obfuscation 2
+- [X] 	Javascript - Native code
+- [X] 	Javascript - Obfuscation 3
+- [X] 	XSS - Stockée 1
+- [X] 	Javascript - Webpack
+- [X] 	CSRF - 0 protection
+- [ ] 	XSS - Stockée 2
+- [X] 	CSRF - contournement de jeton
+- [ ] 	Javascript - Obfuscation 4
+- [ ] 	Flash - Authentification
+- [ ] 	XSS - Volatile
+- [ ] 	XSS DOM Based - Introduction
+- [ ] 	CSP Bypass - Inline code
+- [ ] 	XSS DOM Based - Eval
+- [ ] 	XSS DOM Based - AngularJS
+- [ ] 	HTTP Response Splitting
+- [ ] 	CSP Bypass - Dangling markup
+- [ ] 	AST - Deobfuscation
+- [ ] 	XSS - Stored - contournement de filtres
+- [ ] 	XSS DOM Based - Filters Bypass
+- [ ] 	CSP Bypass - Dangling markup 2
+- [ ] 	CSP Bypass - JSONP
+- [X] 	CSP Bypass - Nonce
+- [ ] 	Web Socket - 0 protection
+- [ ] 	XSS - DOM Based
+- [ ] 	Javascript - Obfuscation
+- [ ] 	CSS - Exfiltration
+- [ ] 	CSP Bypass - Nonce 2
+- [ ] 	DOM Clobbering
+- [ ] 	Self XSS - DOM Secrets
+- [ ] 	XS Leaks
+- [ ] 	Relative Path Overwrite
+- [ ] 	Javascript - Obfuscation
+- [ ] 	Self XSS - Race Condition
+- [ ] 	Browser - bfcache / disk cache
+- [ ] 	Same Origin Method Execution
+- [ ] 	CSPT - The Ruler
+
+## Web - Serveur
