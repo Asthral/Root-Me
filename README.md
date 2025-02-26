@@ -2,7 +2,7 @@
 
 - [**App - Script**](#AppScript)
 
-- [**App - Système**](#AppSystème)
+- [**App - Système**](#AppSysteme)
 
 - [**Cracking**](#Cracking)
 
@@ -16,11 +16,31 @@
 
 - [**Réseau**](#network)
 
-- [**Stéganographie**](#Stéganographie)
+- [**Stéganographie**](#Steganographie)
 
 - [**Web - Client**](#WebClient)
 
 - [**Web - Serveur**](#WebServeur)
+
+## App - Sript
+
+## App - Systeme
+
+## Cracking
+
+## Cryptanalyse
+
+## Forensic
+
+## Programmation
+
+## Realiste
+
+## Steganographie
+
+## Web - Client
+
+## Web - Serveur
 
 ## Network
 - [X] FTP - Authentification
