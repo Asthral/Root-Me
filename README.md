@@ -1,8 +1,8 @@
 # Root-Me
 
-- [**App - Script**](#AppScript)
+- [**App - Script**](#App---Script)
 
-- [**App - Système**](#AppSysteme)
+- [**App - Système**](#App---Systeme)
 
 - [**Cracking**](#Cracking)
 
@@ -18,9 +18,9 @@
 
 - [**Stéganographie**](#Steganographie)
 
-- [**Web - Client**](#WebClient)
+- [**Web - Client**](#Web---Client)
 
-- [**Web - Serveur**](#WebServeur)
+- [**Web - Serveur**](#Web---Serveur)
 
 ## App - Sript
 
