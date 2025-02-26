@@ -22,7 +22,7 @@
 
 - [**Web - Serveur**](#Web---Serveur)
 
-## App - Sript
+## App - Script
 
 ## App - Systeme
 
