@@ -64,7 +64,7 @@
 - [X] Charge ICMP
 - [X] ARP Spoofing - Écoute active
 - [X] XMPP - Authentification
-- [ ] WPA2 - Enterprise
+- [X] WPA2 - Enterprise
 - [ ] RF - FM Transmission
 - [ ] RF - Transmission satellite
 - [ ] ARP Spoofing - L’homme du milieu
